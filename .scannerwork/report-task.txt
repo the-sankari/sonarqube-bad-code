@@ -1,0 +1,6 @@
+projectKey=javascript_test
+serverUrl=http://localhost:8889
+serverVersion=9.0.1.46107
+dashboardUrl=http://localhost:8889/dashboard?id=javascript_test
+ceTaskId=AXvsjvJxXZ8kl_xWUweM
+ceTaskUrl=http://localhost:8889/api/ce/task?id=AXvsjvJxXZ8kl_xWUweM
